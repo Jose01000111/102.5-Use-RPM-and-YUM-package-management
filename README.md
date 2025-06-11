@@ -4,6 +4,12 @@
 
 #### I’ve included some helpful links to guide you through the lab and for studying afterward:
 
+[]()
+
+[]()
+
+[]()
+
 ---
 
 ## 1️⃣RPM Basics – Installing, Upgrading, and Removing Packages
