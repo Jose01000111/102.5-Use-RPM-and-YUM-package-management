@@ -45,7 +45,11 @@ Once I had some packages installed, I practiced using RPM’s query options to r
 
 🔹 Get detailed info about a package:
 
+![wDgdILR](https://github.com/user-attachments/assets/39e07807-aa72-4f10-959d-26216ed178bf)
+
 🔹 List all files a package provides:
+
+![138JXST](https://github.com/user-attachments/assets/88e434ef-b591-406c-8339-96a0e81b4d70)
 
 🔹 Find out which package owns a specific file:
 
