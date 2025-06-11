@@ -4,11 +4,11 @@
 
 #### I’ve included some helpful links to guide you through the lab and for studying afterward:
 
-[]()
+[Objective 102.5](https://www.lpi.org/our-certifications/exam-101-102-objectives/#102.5_Use_RPM_and_YUM_package_management)
 
-[]()
+[LPIC 102.5 NOTES]()
 
-[]()
+[LPIC 102.5 LAB]()
 
 ---
 
