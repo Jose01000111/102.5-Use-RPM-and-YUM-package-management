@@ -1,6 +1,10 @@
-# 102.5-Use-RPM-and-YUM-package-management
+# 🧪 LPIC-1 Lab: 102.5 Use RPM and YUM Package Management
 
+I worked through hands-on tasks that helped me install, query, and remove packages. I also used commands to explore dependencies, signatures, and configuration files to gain control over package management operations in enterprise systems.
 
+I’ve included some helpful links to guide you through the lab and for studying afterward:
+
+---
 
 
 
