@@ -49,6 +49,8 @@ Once I had some packages installed, I practiced using RPM’s query options to r
 
 🔹 Find out which package owns a specific file:
 
+![nbwTd3b](https://github.com/user-attachments/assets/1bf255f0-0c40-4f46-bf2c-01c8bc7f6d2f)
+
 ## 1️⃣ 🔹 Install a Package Using YUM
 
 ![dMTNHkz](https://github.com/user-attachments/assets/1e930aa9-63aa-4ba3-af28-83655905cb62)
