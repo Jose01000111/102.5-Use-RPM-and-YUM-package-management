@@ -6,9 +6,9 @@
 
 [Objective 102.5](https://www.lpi.org/our-certifications/exam-101-102-objectives/#102.5_Use_RPM_and_YUM_package_management)
 
-[LPIC 102.5 NOTES]()
+[LPIC 102.5 NOTES](https://1drv.ms/w/c/354f1c8d534fbced/EYBDQJHZc4dGmoqGF9PIKxsB7fLedSz1pBrgvVkq3duVlg?e=K99lIa)
 
-[LPIC 102.5 LAB]()
+[LPIC 102.5 LAB](https://1drv.ms/w/c/354f1c8d534fbced/EYJQd-i7WRhJixM-wU51lHwBGjtxlloYn5WboKfrwdxMfQ?e=3kUPhb)
 
 ---
 
